@@ -21,3 +21,12 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
+print("wellcome to my madlib")
+print ("give me a plural noun:" )
+pl:input()
+print("give me adjustive:")
+adji:input()
+print("give me a number:" )
+num1:input()
+
+print("a recent survey informs us that one out of every ,pn1, hands own:" )
