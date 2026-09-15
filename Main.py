@@ -22,11 +22,15 @@
 
 # THIS IS WHERE YOU CODE
 print("wellcome to my madlib")
+
 print ("give me a plural noun:" )
 pl:input()
-print("give me adjustive:")
-adji:input()
-print("give me a number:" )
-num1:input()
+
+print("give me an verb ending in \" ing \""")
+verb_ending:input()
+
+print("give me an verb ending in \" ing \""")
+Veb_Ending_IN_ING1=input()
 
 print("a recent survey informs us that one out of every ,pn1, hands own:" )
+print(" fortunatley," , Verb_in_ing , "overa mobile" , noun1 , "in recent years has improved" , ADVERB1 , ".")
