@@ -26,11 +26,20 @@ print("wellcome to my madlib")
 print ("give me a plural noun:" )
 pl:input()
 
-print("give me an verb ending in \" ing \""")
+print("give me a noun:" )
+noun:input()
+
+print("give me a adjustive:")
+adjective:input()
+
+print("give me a adverb:" )
+adverb:input()
+
+print("give me an verb ending in \" ing \" ")
 verb_ending:input()
 
-print("give me an verb ending in \" ing \""")
-Veb_Ending_IN_ING1=input()
+print("give me an verb ending in \" ing \" ")
+Verb_Ending_IN_ING1=input()
 
 print("a recent survey informs us that one out of every ,pn1, hands own:" )
-print(" fortunatley," , Verb_in_ing , "overa mobile" , noun1 , "in recent years has improved" , ADVERB1 , ".")
+print(" fortunatley," ,Verb_Ending_IN_ING1  , "overa mobile" , noun , "in recent years has improved" , adverb , ".")
